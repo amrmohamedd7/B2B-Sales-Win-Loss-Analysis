@@ -1,0 +1,449 @@
+Up_sale,Client,Competitors,Source,Att_t_client,Seller,won,win_score,win_quintile
+Yes,Current,No,Referral,Strategic account,Other,1,0.7565138563703706,3
+Yes,Current,No,Referral,Strategic account,Other,1,0.7565138563703706,3
+No,Current,No,Joint past,Strategic account,Seller 1,1,0.609480534554325,2
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+No,New,Unknown,Unknown,Normal,Seller 1,1,0.3187348293599141,1
+No,New,Unknown,Referral,First deal,Other,0,0.249465780902238,1
+No,New,Yes,Referral,First deal,Seller 1,1,0.1730828711335789,1
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,Unknown,Other,First deal,Seller 1,1,0.4651728096146445,2
+Yes,Current,No,Joint past,Strategic account,Seller 4,1,0.8741271324422334,4
+Yes,Current,No,Joint past,Strategic account,Seller 4,1,0.8741271324422334,4
+No,New,Yes,Other,First deal,Seller 2,0,0.16576504248810656,1
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Strategic account,Seller 10,1,0.8337246670366038,4
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,Yes,Referral,First deal,Seller 2,0,0.07993331360755088,0
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,1,0.673379722085415,3
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,1,0.673379722085415,3
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+No,New,Yes,Referral,First deal,Seller 1,0,0.1730828711335789,1
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,New,Yes,Referral,Strategic account,Seller 1,0,0.22704220241593226,1
+No,New,No,Joint past,Normal,Seller 1,1,0.4125654644708387,1
+No,Current,No,Joint past,Normal,Seller 1,0,0.5670158556257111,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Media,First deal,Seller 4,0,0.13409889414503956,0
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Other,Seller 1,1,0.7686284788309418,3
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,Current,No,Joint past,Normal,Seller 1,1,0.5670158556257111,2
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+No,New,Unknown,Joint past,First deal,Seller 9,0,0.1698018395422939,1
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+No,New,Yes,Media,Strategic account,Other,0,0.11111088278992823,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Other,First deal,Seller 2,0,0.16576504248810656,1
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+No,Current,Yes,Joint past,Strategic account,Seller 1,1,0.4131797091989298,1
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,Yes,Referral,First deal,Seller 1,0,0.1730828711335789,1
+No,New,No,Media,Normal,Seller 1,1,0.21010333291117222,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Unknown,Normal,Seller 2,0,0.09656384002210919,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,0,0.673379722085415,3
+Yes,Current,Unknown,Joint past,Normal,Seller 2,0,0.5660708924992445,2
+No,New,No,Unknown,Normal,Seller 9,0,0.19277157026110228,1
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+No,New,No,Other,First deal,Seller 1,1,0.5148308856464288,2
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+No,Current,Yes,Joint past,Strategic account,Other,0,0.38096482920991964,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,No,Joint past,Normal,Other,1,0.3803674335056954,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Unknown,Unknown,Normal,Seller 2,0,0.16261321855533348,0
+No,New,Unknown,Unknown,Normal,Seller 2,0,0.16261321855533348,0
+No,New,Yes,Unknown,Normal,Seller 9,0,0.09725831533281344,0
+No,New,No,Referral,First deal,Seller 1,0,0.3169186618283652,1
+No,New,Yes,Joint past,Other,Seller 1,0,0.21538172747712508,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Media,Normal,Seller 2,0,0.047444520088371966,0
+No,New,Unknown,Media,Normal,Seller 9,0,0.08358826189258524,0
+No,Current,No,Joint past,Strategic account,Seller 3,1,0.5112835676784971,2
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+No,New,No,Referral,Normal,Seller 9,1,0.18603981964806374,1
+Yes,Current,No,Joint past,Normal,Seller 10,0,0.8079609711600731,4
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+No,Other,Yes,Referral,Normal,Seller 3,0,0.16318830350961308,0
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 4,1,0.8741271324422334,4
+Yes,Current,Yes,Joint past,Normal,Seller 1,1,0.6336872568560998,2
+Yes,Current,No,Joint past,Strategic account,Other,0,0.799769968231131,3
+Yes,Current,Yes,Joint past,Strategic account,Other,0,0.6431108996015537,2
+Yes,Current,No,Joint past,Strategic account,Seller 4,1,0.8741271324422334,4
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,New,Yes,Joint past,First deal,Seller 2,0,0.10046604633664498,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+No,New,Yes,Media,Normal,Seller 2,0,0.047444520088371966,0
+No,New,Yes,Joint past,Normal,Seller 2,0,0.11622705072366003,0
+No,Current,No,Joint past,Strategic account,Seller 1,0,0.609480534554325,2
+No,New,Yes,Media,Normal,Seller 2,0,0.047444520088371966,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Joint past,Normal,Seller 1,0,0.4125654644708387,1
+No,Current,No,Joint past,Normal,Seller 1,0,0.5670158556257111,2
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+No,New,Yes,Referral,Normal,Seller 9,1,0.09347573596150305,0
+No,New,Yes,Referral,Normal,Other,0,0.17724133932507502,1
+Yes,Current,Yes,Joint past,Normal,Other,0,0.6019146080293127,2
+No,New,Yes,Joint past,Strategic account,Seller 1,1,0.2741054104016836,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Referral,Strategic account,Seller 2,0,0.10866912424027414,0
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+No,New,Yes,Joint past,Strategic account,Seller 9,0,0.1364284567627328,0
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,No,Joint past,Normal,Other,1,0.7701952898886224,3
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+Yes,Current,No,Joint past,Normal,Seller 2,0,0.6141318263499994,2
+No,Current,Yes,Joint past,Strategic account,Seller 1,1,0.4131797091989298,1
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,New,Yes,Media,Normal,Seller 2,0,0.047444520088371966,0
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,Current,No,Joint past,Strategic account,Seller 1,0,0.609480534554325,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,Current,Yes,Joint past,Strategic account,Seller 1,0,0.4131797091989298,1
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,Current,Yes,Joint past,Normal,Seller 9,0,0.19818716279853468,1
+Yes,Current,No,Joint past,Normal,Seller 2,0,0.6141318263499994,2
+No,New,Yes,Media,Normal,Seller 2,0,0.047444520088371966,0
+No,New,Yes,Referral,Normal,Seller 2,0,0.09280549355282727,0
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,Current,No,Joint past,Strategic account,Seller 9,1,0.395020925423147,1
+Yes,Current,No,Joint past,Strategic account,Other,1,0.799769968231131,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Unknown,Media,Normal,Seller 2,0,0.0829824252281288,0
+Yes,Current,Yes,Joint past,Normal,Seller 2,0,0.4179361750249859,1
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,Yes,Joint past,Normal,Seller 2,1,0.11622705072366003,0
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,Current,No,Joint past,Normal,Seller 1,1,0.5670158556257111,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,New,Yes,Joint past,Normal,Seller 1,0,0.4812617836224694,2
+No,New,Yes,Referral,Strategic account,Seller 1,0,0.22704220241593226,1
+No,Current,No,Joint past,Normal,Seller 1,1,0.5670158556257111,2
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,Yes,Joint past,Normal,Seller 10,1,0.6549455646943741,2
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+No,New,Unknown,Referral,Normal,Seller 4,0,0.4049299711566845,1
+No,Current,No,Joint past,Normal,Seller 1,0,0.5670158556257111,2
+No,New,Yes,Referral,Normal,Seller 9,0,0.09347573596150305,0
+No,New,Yes,Joint past,Normal,Seller 1,0,0.24061054942987195,1
+No,Current,Yes,Joint past,Strategic account,Seller 1,1,0.4131797091989298,1
+No,Current,No,Joint past,Strategic account,Seller 1,1,0.609480534554325,2
+No,New,Yes,Referral,Normal,Seller 2,0,0.09280549355282727,0
+No,Current,Yes,Joint past,Strategic account,Other,0,0.38096482920991964,1
+No,New,Yes,Referral,Normal,Seller 2,0,0.09280549355282727,0
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,Yes,Referral,Normal,Seller 2,0,0.09280549355282727,0
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+No,Current,Yes,Joint past,Normal,Seller 9,0,0.19818716279853468,1
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,Yes,Other,First deal,Seller 2,0,0.16576504248810656,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 2,0,0.6141318263499994,2
+No,New,Yes,Joint past,Normal,Seller 9,1,0.11704462037294892,0
+No,New,Yes,Joint past,Strategic account,Seller 1,0,0.2741054104016836,1
+No,New,Yes,Media,Normal,Seller 2,0,0.047444520088371966,0
+No,Current,No,Joint past,Strategic account,Seller 1,0,0.609480534554325,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+No,Current,No,Joint past,Normal,Seller 9,0,0.35395527570693053,1
+No,New,Yes,Referral,Normal,Seller 9,1,0.09347573596150305,0
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Referral,Normal,Seller 2,0,0.18484120183091662,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 10,0,0.8079609711600731,4
+Yes,Current,Yes,Joint past,Strategic account,Other,1,0.6431108996015537,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,Current,No,Joint past,Strategic account,Seller 1,1,0.609480534554325,2
+No,New,Yes,Referral,Normal,Seller 1,1,0.1977317719811237,1
+No,New,Yes,Referral,Normal,Seller 1,0,0.1977317719811237,1
+Yes,Current,Yes,Joint past,Normal,Other,0,0.6019146080293127,2
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+No,New,Yes,Referral,Normal,Seller 2,0,0.09280549355282727,0
+No,Current,No,Joint past,Normal,Seller 1,0,0.5670158556257111,2
+No,New,Yes,Referral,Normal,Seller 1,0,0.1977317719811237,1
+No,New,No,Joint past,Normal,Seller 1,0,0.4125654644708387,1
+No,Current,Yes,Joint past,Strategic account,Seller 3,0,0.3206419439290209,1
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Media,Normal,Seller 2,0,0.09942569182473078,0
+No,Current,Yes,Joint past,Strategic account,Seller 1,1,0.4131797091989298,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Referral,Normal,Seller 1,0,0.3532996731696086,1
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,No,Referral,Normal,Seller 9,0,0.18603981964806374,1
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+Yes,Current,Yes,Joint past,Normal,Seller 1,0,0.6336872568560998,2
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+No,New,No,Joint past,Normal,Seller 1,0,0.4125654644708387,1
+No,New,Yes,Referral,Strategic account,Seller 1,0,0.22704220241593226,1
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+No,New,Yes,Referral,Normal,Seller 9,1,0.09347573596150305,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+No,New,Yes,Joint past,Normal,Seller 9,1,0.11704462037294892,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+No,New,Yes,Referral,Normal,Seller 9,0,0.09347573596150305,0
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,Yes,Referral,Normal,Seller 1,0,0.1977317719811237,1
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+No,Current,No,Joint past,Normal,Seller 1,1,0.5670158556257111,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Referral,Normal,Seller 9,0,0.09347573596150305,0
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+No,New,Yes,Referral,Strategic account,Other,0,0.2042878333779834,1
+No,Current,No,Referral,Normal,Seller 1,1,0.5046222907132463,2
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Unknown,Referral,Normal,Seller 4,0,0.4049299711566845,1
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+No,Current,Yes,Joint past,Normal,Seller 9,0,0.19818716279853468,1
+No,New,Yes,Joint past,Normal,Seller 9,1,0.11704462037294892,0
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+No,New,No,Referral,Normal,Seller 4,1,0.45361146763084537,2
+No,New,No,Referral,Normal,Seller 4,0,0.45361146763084537,2
+No,New,No,Referral,Normal,Seller 4,0,0.45361146763084537,2
+No,New,Yes,Referral,Normal,Seller 9,0,0.09347573596150305,0
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+No,New,No,Referral,Normal,Seller 4,1,0.45361146763084537,2
+Yes,Current,Yes,Joint past,Normal,Seller 1,1,0.6336872568560998,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,No,Referral,Strategic account,Seller 1,0,0.39433568773395133,1
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,New,Yes,Joint past,Normal,Seller 9,1,0.11704462037294892,0
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,Current,Yes,Joint past,First deal,Other,0,0.30485155223131716,1
+No,Current,Yes,Joint past,Strategic account,Seller 3,0,0.3206419439290209,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,No,Referral,Normal,Seller 1,0,0.3532996731696086,1
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+No,New,Yes,Joint past,Normal,Seller 9,1,0.11704462037294892,0
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Normal,Seller 2,1,0.6141318263499994,2
+No,Current,No,Joint past,Strategic account,Seller 3,1,0.5112835676784971,2
+No,New,Unknown,Direct mail,First deal,Seller 2,0,0.11969342663663222,0
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,Current,No,Joint past,Normal,Seller 9,0,0.35395527570693053,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Joint past,First deal,Other,1,0.34267606703280423,1
+No,Current,No,Joint past,Strategic account,Seller 4,1,0.7034135613769587,3
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,Current,No,Joint past,Strategic account,Seller 3,0,0.5112835676784971,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,Yes,Other,Normal,Other,0,0.33007610369147017,1
+No,New,Yes,Media,First deal,Seller 1,0,0.09248444322667164,0
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+No,New,Unknown,Referral,First deal,Seller 2,0,0.1363239261592938,0
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+No,New,Yes,Other,Strategic account,Seller 9,1,0.21940054473912732,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,Current,No,Joint past,Strategic account,Seller 1,1,0.609480534554325,2
+No,New,No,Referral,First deal,Seller 1,0,0.3169186618283652,1
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,No,Joint past,Normal,Seller 3,0,0.3200902291827557,1
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+No,Current,Unknown,Joint past,Normal,Seller 9,0,0.3099027834999403,1
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 3,1,0.7538939294420322,3
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,Unknown,Unknown,Normal,Seller 9,0,0.1636966426060467,0
+No,New,No,Joint past,First deal,Seller 4,1,0.4754459612507847,2
+No,Current,No,Joint past,Strategic account,Seller 1,1,0.609480534554325,2
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,1,0.673379722085415,3
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,0,0.673379722085415,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Referral,Strategic account,Seller 1,1,0.39433568773395133,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Other,Yes,Joint past,First deal,Seller 2,1,0.2785058272158899,1
+Yes,Current,Yes,Joint past,Normal,Seller 1,1,0.6336872568560998,2
+Yes,Current,No,Joint past,Normal,Seller 9,0,0.6160105361411333,2
+Yes,Other,No,Joint past,Normal,Seller 2,0,0.5018705602475384,2
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 1,0,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+No,Current,Unknown,Joint past,Normal,Seller 9,1,0.3099027834999403,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+Yes,Current,Yes,Joint past,Normal,Seller 1,1,0.6336872568560998,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,No,Unknown,Normal,Seller 9,1,0.19277157026110228,1
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,New,No,Referral,Normal,Seller 9,0,0.18603981964806374,1
+No,Current,Unknown,Joint past,Normal,Seller 9,0,0.3099027834999403,1
+No,Current,Yes,Joint past,Normal,Other,0,0.3405379017345373,1
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,1,0.673379722085415,3
+Yes,Current,No,Joint past,Normal,Seller 10,1,0.8079609711600731,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+Yes,Other,No,Joint past,Normal,Seller 2,0,0.5018705602475384,2
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+Yes,Current,No,Joint past,Strategic account,Seller 9,1,0.6565803685263436,2
+No,New,Yes,Joint past,First deal,Other,0,0.19040872946786913,1
+No,New,Yes,Unknown,Normal,Seller 9,0,0.09725831533281344,0
+Yes,Current,Yes,Joint past,Strategic account,Seller 1,1,0.673379722085415,3
+No,New,Yes,Referral,Strategic account,Seller 1,1,0.22704220241593226,1
+No,Current,Yes,Joint past,Strategic account,Seller 1,0,0.4131797091989298,1
+No,New,No,Referral,Normal,Seller 1,0,0.3532996731696086,1
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+No,Current,Unknown,Joint past,Normal,Seller 9,1,0.3099027834999403,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,Current,Yes,Joint past,Strategic account,Seller 3,0,0.3206419439290209,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+Yes,Current,No,Joint past,Normal,Seller 9,1,0.6160105361411333,2
+No,Current,No,Joint past,Strategic account,Seller 3,0,0.5112835676784971,2
+No,Current,No,Joint past,Strategic account,Seller 3,0,0.5112835676784971,2
+No,New,Unknown,Referral,Normal,Seller 9,0,0.15778175781061468,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,Yes,Joint past,Normal,Seller 1,0,0.6336872568560998,2
+No,New,Yes,Media,Normal,Seller 9,0,0.04780442767534308,0
+No,Current,No,Unknown,Normal,Seller 9,0,0.30809410161955564,1
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,Current,Unknown,Joint past,Normal,Seller 9,1,0.3099027834999403,1
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 9,0,0.6565803685263436,2
+Yes,Current,No,Joint past,Strategic account,Seller 1,0,0.8204613528120712,4
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+Yes,Current,No,Joint past,Normal,Seller 1,1,0.7931524304301745,3
+No,New,No,Joint past,Normal,Seller 9,0,0.22710087449907918,1
+No,New,Yes,Joint past,Normal,Seller 9,0,0.11704462037294892,0
+Yes,Current,No,Joint past,Strategic account,Seller 1,1,0.8204613528120712,4
+No,Current,Yes,Referral,Strategic account,Seller 2,0,0.18522330516456953,1
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Direct mail,First deal,Seller 2,0,0.06962746011085966,0
+No,New,Yes,Referral,First deal,Seller 1,0,0.1730828711335789,1

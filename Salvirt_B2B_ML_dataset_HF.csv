@@ -1,0 +1,449 @@
+Product;Seller;Authority;Comp_size;Competitors;Purch_dept;Partnership;Budgt_alloc;Forml_tend;RFI;RFP;Growth;Posit_statm;Source;Client;Scope;Strat_deal;Cross_sale;Up_sale;Deal_type;Needs_def;Att_t_client;Status
+Product A;Seller 6;Mid;Mid;No;Unknown;No;Yes;No;Yes;Yes;Growth;Neutral;Referral;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 8;Mid;Big;No;Yes;No;Unknown;No;No;Yes;Stable;Yes;Referral;Current;Clear;Unimportant;No;Yes;Maintenance;Yes;Strategic account;Won
+Product F;Seller 1;Mid;Big;No;No;Yes;No;No;No;Yes;Stable;Yes;Joint past;Current;Few questions;Average important;Yes;No;Project;Info gathering;Strategic account;Won
+Product B;Seller 8;Mid;Big;No;Yes;No;No;No;No;No;Growth;Yes;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product C;Seller 1;Mid;Small;Unknown;No;No;No;No;No;No;Stable;Neutral;Unknown;New;Few questions;Average important;No;No;Project;No;Normal;Won
+Product B;Seller 20;Mid;Big;Unknown;Unknown;No;No;No;No;No;Growth;Yes;Referral;New;Clear;Very important;No;No;Project;Yes;First deal;Lost
+Product B;Seller 1;Mid;Mid;Yes;Unknown;Yes;Unknown;No;No;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;First deal;Won
+Product I;Seller 1;Mid;Small;No;No;No;No;No;No;Yes;Growth;Yes;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product D;Seller 2;Low;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product C;Seller 12;Mid;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product E;Seller 1;Mid;Small;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 1;High;Small;Unknown;No;No;Yes;No;Yes;Yes;Stable;Neutral;Event;New;Clear;Average important;No;No;Project;Yes;First deal;Won
+Product A;Seller 4;High;Big;No;No;No;Yes;Yes;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 4;High;Big;No;No;No;Yes;Yes;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Yes;No;No;Yes;Stable;Neutral;Online form;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product B;Seller 8;Mid;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Unimportant;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 10;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product C;Seller 1;Mid;Mid;No;Unknown;No;Yes;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Unknown;No;No;Yes;Unknown;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product C;Seller 9;Mid;Mid;No;Unknown;No;Unknown;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product N;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 2;Low;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product C;Seller 10;Mid;Mid;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product F;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 2;Low;Big;No;Unknown;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 8;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;Yes;Yes;Project;Yes;Strategic account;Won
+Product C;Seller 1;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Growth;Neutral;Referral;New;Few questions;Very important;No;No;Project;Info gathering;First deal;Lost
+Product D;Seller 2;Low;Mid;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 2;Low;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 2;High;Mid;Yes;Unknown;No;Yes;No;Yes;Yes;Growth;Neutral;Direct mail;New;Clear;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Yes;No;Yes;No;Stable;Neutral;Direct mail;New;Few questions;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product F;Seller 9;Mid;Mid;Yes;No;No;Yes;No;No;No;Stable;Yes;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 2;High;Big;Yes;Unknown;No;Yes;No;Yes;Yes;Growth;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Unknown;No;No;Yes;Stable;Neutral;Direct mail;New;Clear;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 16;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 2;Low;Mid;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Solution;Yes;Strategic account;Lost
+Product F;Seller 1;Mid;Mid;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 4;Mid;Big;Yes;No;No;Yes;Yes;No;Yes;Stable;Neutral;Media;New;Clear;Very important;No;No;Project;Yes;First deal;Lost
+Product B;Seller 8;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 1;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product N;Seller 1;High;Mid;No;No;No;No;No;No;No;Growth;No;Joint past;Current;Clear;Unimportant;No;Yes;Project;Yes;Bad client;Won
+Product A;Seller 1;High;Small;No;No;No;No;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product I;Seller 1;Mid;Small;No;No;No;No;No;Yes;Yes;Growth;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Won
+Product F;Seller 1;Mid;Big;No;No;No;No;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product C;Seller 9;Mid;Small;Unknown;No;No;No;No;No;No;Stable;Neutral;Joint past;New;Clear;Unimportant;No;No;Project;Yes;First deal;Lost
+Product D;Seller 10;Mid;Big;No;Yes;No;No;No;No;No;Stable;No;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 11;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Media;New;Clear;Very important;No;No;Project;Yes;Strategic account;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Low;Very important;No;Yes;Project;No;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Yes;No;Yes;Yes;Stable;Neutral;Online form;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product C;Seller 12;High;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product F;Seller 1;Mid;Big;Yes;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product A;Seller 1;High;Small;No;No;No;No;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Mid;Yes;No;No;Unknown;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;First deal;Lost
+Product C;Seller 1;Mid;Small;No;No;No;No;No;Yes;Yes;Growth;Yes;Media;New;Few questions;Very important;No;No;Solution;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 1;Mid;Big;No;No;No;Yes;No;No;No;Stable;Yes;Joint past;Current;Low;Very important;No;Yes;Maintenance;No;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Unknown;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;Yes;No;No;No;Growth;Yes;Joint past;Current;Low;Very important;No;Yes;Maintenance;No;Strategic account;Won
+Product B;Seller 1;Mid;Big;Yes;No;Yes;No;No;No;Yes;Growth;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Big;Unknown;Unknown;No;Yes;No;Yes;Yes;Growth;Neutral;Joint past;Current;Few questions;Average important;No;Yes;Project;Info gathering;Normal;Lost
+Product B;Seller 9;Mid;Mid;No;No;No;No;No;No;No;Stable;Neutral;Unknown;New;Low;Average important;No;No;Solution;No;Normal;Lost
+Product D;Seller 10;Mid;Big;No;No;Yes;No;No;No;No;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product C;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Event;New;Clear;Average important;No;No;Project;Yes;First deal;Won
+Product P;Seller 13;High;Big;No;No;No;Yes;No;No;No;Growth;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product D;Seller 10;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 14;Mid;Big;Yes;No;No;Yes;No;Yes;No;Growth;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Consulting;Yes;Strategic account;Lost
+Product K;Seller 9;High;Mid;Yes;No;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product C;Seller 14;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Consulting;Yes;Normal;Won
+Product I;Seller 1;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Small;Unknown;No;No;Unknown;No;Yes;Yes;Unknown;Neutral;Unknown;New;Few questions;Unimportant;No;No;Solution;No;Normal;Lost
+Product D;Seller 2;Mid;Small;Unknown;No;No;Unknown;No;Yes;Yes;Unknown;Neutral;Unknown;New;Few questions;Unimportant;No;No;Solution;No;Normal;Lost
+Product B;Seller 9;Mid;Mid;Yes;No;No;Yes;Yes;No;Yes;Stable;Neutral;Unknown;New;Clear;Very important;No;No;Project;Yes;Normal;Lost
+Product E;Seller 1;Mid;Small;No;No;No;No;No;Yes;Yes;Growth;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;First deal;Lost
+Product A;Seller 1;Mid;Big;Yes;No;No;Unknown;No;No;Yes;Stable;Neutral;Joint past;New;Few questions;Very important;No;No;Project;Yes;Bad client;Lost
+Product B;Seller 1;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 9;Low;Small;Unknown;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 3;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Few questions;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product D;Seller 10;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Won
+Product D;Seller 10;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product C;Seller 14;High;Big;No;No;No;No;No;No;No;Growth;Yes;Joint past;Current;Clear;Average important;No;Yes;Consulting;No;Strategic account;Won
+Product C;Seller 14;Mid;Big;No;Yes;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product C;Seller 14;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product A;Seller 3;Mid;Big;Yes;No;No;Unknown;No;Yes;No;Stable;Neutral;Referral;Past;Low;Average important;No;No;Project;Poor;Normal;Lost
+Product N;Seller 1;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product F;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Mid;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product I;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Small;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product A;Seller 1;Mid;Small;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product D;Seller 1;Mid;Mid;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product B;Seller 8;Mid;Big;No;No;No;No;No;No;No;Growth;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Small;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Unimportant;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product F;Seller 4;Mid;Big;No;No;Yes;Yes;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Mid;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 8;Mid;Big;No;Yes;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Lost
+Product B;Seller 8;Mid;Big;Yes;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product A;Seller 4;High;Big;No;No;No;Yes;Yes;No;No;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 3;High;Big;No;No;No;Yes;Yes;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product A;Seller 3;High;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product A;Seller 6;Mid;Mid;No;Yes;Yes;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 3;Mid;Big;No;No;No;Yes;No;No;No;Stable;Yes;Joint past;Current;Few questions;Very important;No;Yes;Maintenance;Info gathering;Strategic account;Won
+Product D;Seller 2;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;No;No;Yes;Yes;Stable;Yes;Joint past;New;Clear;Very important;Yes;No;Solution;Yes;First deal;Lost
+Product C;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Small;Yes;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 2;Mid;Small;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product C;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Growth;Yes;Joint past;Current;Clear;Very important;No;Yes;Solution;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Lost
+Product A;Seller 5;Mid;Small;No;No;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 9;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Yes;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product B;Seller 11;Low;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Unknown;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 11;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product I;Seller 1;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;New;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;High;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Strategic account;Lost
+Product A;Seller 5;Mid;Small;No;No;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product A;Seller 9;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;New;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product A;Seller 6;Mid;Mid;No;No;No;Yes;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 6;Mid;Mid;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Mid;No;No;No;No;No;No;Yes;Growth;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Yes;No;Yes;Yes;Stable;Yes;Direct mail;New;Few questions;Average important;No;No;Solution;Info gathering;First deal;Lost
+Product A;Seller 14;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 2;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 2;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product I;Seller 1;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Growth;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 2;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product H;Seller 9;High;Small;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Solution;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product C;Seller 1;Mid;Big;No;No;No;No;No;No;No;Stable;Yes;Joint past;Current;Low;Very important;Yes;No;Project;No;Strategic account;Lost
+Product B;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product E;Seller 1;Mid;Big;Yes;No;No;Yes;No;No;No;Stable;Neutral;Joint past;Current;Low;Average important;Yes;No;Project;No;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product K;Seller 9;Mid;Big;Yes;Yes;No;Unknown;Yes;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Solution;Yes;Normal;Lost
+Product D;Seller 2;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 2;High;Small;Yes;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 2;Mid;Big;Yes;Yes;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 2;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 9;Mid;Mid;No;Yes;No;Yes;No;No;Yes;Growth;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product C;Seller 14;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Unknown;No;No;Unknown;Yes;No;No;Unknown;Neutral;Media;New;Low;Average important;No;No;Solution;No;Normal;Lost
+Product D;Seller 2;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product B;Seller 9;High;Big;Yes;No;No;No;No;No;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product N;Seller 9;Mid;Small;Yes;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 2;Mid;Mid;Yes;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product F;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;High;Small;Yes;No;No;No;No;No;Yes;Stable;Neutral;Media;New;Clear;Unimportant;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Mid;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product G;Seller 1;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;Strategic account;Lost
+Product B;Seller 1;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Won
+Product D;Seller 2;High;Mid;Yes;Unknown;No;Yes;No;Yes;Yes;Growth;Neutral;Direct mail;New;Clear;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 10;Mid;Big;Yes;Yes;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product C;Seller 9;Mid;Small;Yes;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Unimportant;No;No;Project;Yes;Normal;Lost
+Product D;Seller 9;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Strategic account;Won
+Product A;Seller 3;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product F;Seller 4;Mid;Mid;Unknown;No;Yes;Unknown;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product F;Seller 1;Mid;Mid;No;No;No;No;No;Yes;No;Stable;Neutral;Joint past;Current;Low;Average important;Yes;No;Project;Yes;Normal;Lost
+Product F;Seller 9;Mid;Big;Yes;Yes;No;Yes;Yes;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product J;Seller 1;Mid;Big;Yes;No;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product I;Seller 1;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;No;Yes;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product A;Seller 14;Mid;Big;Yes;No;No;Yes;Yes;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Mid;Yes;No;No;No;No;Yes;Yes;Slow down;Neutral;Referral;New;Clear;Unimportant;No;No;Solution;Yes;Normal;Lost
+Product J;Seller 9;Mid;Small;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 2;Mid;Small;Yes;No;Yes;Unknown;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 9;Mid;Small;Yes;No;No;Yes;No;No;No;Stable;Neutral;Joint past;Current;Low;Average important;No;No;Project;No;Normal;Lost
+Product E;Seller 9;Mid;Mid;Yes;No;No;No;No;No;No;Stable;Neutral;Joint past;New;Low;Unimportant;No;No;Project;No;Normal;Lost
+Product D;Seller 2;Low;Mid;Yes;Unknown;No;Unknown;No;No;Yes;Unknown;Neutral;Online form;New;Few questions;Unimportant;No;No;Solution;Info gathering;First deal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Big;No;Yes;Yes;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;Yes;No;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Very important;No;No;Solution;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Yes;Yes;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Solution;Yes;Strategic account;Lost
+Product D;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Strategic account;Won
+Product D;Seller 1;Mid;Small;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;Yes;Yes;Yes;Yes;Yes;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product N;Seller 9;High;Small;Yes;No;No;Yes;No;No;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product C;Seller 1;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Mid;No;No;Yes;No;No;No;No;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 10;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product B;Seller 8;Mid;Big;Yes;Yes;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;Yes;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;Yes;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 11;Mid;Mid;Yes;Yes;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product A;Seller 3;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;Yes;Yes;Yes;Yes;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product G;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;Yes;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Small;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 3;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product D;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product C;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;Yes;Yes;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product N;Seller 9;Mid;Small;Yes;No;No;Yes;No;No;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 1;Mid;Mid;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Mid;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product L;Seller 9;Mid;Mid;No;No;No;No;No;Yes;No;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Small;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product E;Seller 9;Mid;Small;No;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Low;Average important;No;No;Project;No;Normal;Lost
+Product B;Seller 9;Mid;Small;Yes;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product A;Seller 9;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product J;Seller 1;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 1;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;Strategic account;Lost
+Product A;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 9;Mid;Small;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product E;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Mid;Yes;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product F;Seller 1;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Consulting;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product J;Seller 9;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product H;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product H;Seller 1;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;Yes;Yes;No;Yes;Yes;No;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 9;Mid;Big;No;Yes;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product E;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product H;Seller 9;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;No;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product H;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product H;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product H;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product A;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product H;Seller 9;Mid;Small;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product E;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product G;Seller 7;Mid;Big;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;Strategic account;Lost
+Product H;Seller 1;Mid;Mid;No;Yes;Yes;Yes;No;No;Yes;Stable;Neutral;Referral;Current;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product D;Seller 10;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product H;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product H;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product H;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product F;Seller 4;Mid;Big;Unknown;No;Yes;Unknown;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product H;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product N;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product D;Seller 9;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Solution;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product H;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product F;Seller 4;Mid;Mid;No;Yes;Yes;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product F;Seller 4;Mid;Mid;No;Yes;Yes;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product F;Seller 4;Mid;Mid;No;Yes;Yes;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product H;Seller 9;Mid;Mid;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product H;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Strategic account;Won
+Product H;Seller 4;Mid;Big;No;No;Yes;Yes;Yes;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Mid;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Yes;No;Yes;Yes;Unknown;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product H;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;Strategic account;Lost
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Unknown;Neutral;Direct mail;New;Clear;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product C;Seller 9;Mid;Mid;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Consulting;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product D;Seller 2;Low;Mid;No;Yes;No;Yes;No;Yes;Yes;Unknown;No;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product C;Seller 9;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Won
+Product C;Seller 9;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 9;Mid;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product E;Seller 9;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 2;Low;Mid;No;Yes;No;Yes;No;Yes;Yes;Unknown;No;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product B;Seller 15;Mid;Big;Yes;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Info gathering;First deal;Lost
+Product A;Seller 3;High;Big;Yes;Yes;No;No;No;No;No;Stable;Yes;Joint past;Current;Low;Very important;Yes;No;Project;No;Strategic account;Lost
+Product A;Seller 1;Mid;Big;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Strategic account;Won
+Product F;Seller 1;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 9;Mid;Big;Yes;Yes;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product H;Seller 3;High;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product C;Seller 9;Mid;Mid;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Won
+Product C;Seller 9;Mid;Big;Yes;No;No;Unknown;Yes;No;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 2;Low;Mid;No;Yes;No;Yes;No;Yes;Yes;Unknown;No;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product H;Seller 3;High;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product D;Seller 2;Low;Mid;Unknown;No;No;No;No;Yes;Yes;Unknown;Neutral;Direct mail;New;Clear;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product B;Seller 9;Mid;Mid;Yes;No;No;Unknown;No;No;Yes;Stable;Neutral;Media;New;Few questions;Unimportant;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Small;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 1;Mid;Small;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;No;Yes;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 2;High;Mid;Yes;Yes;No;Yes;No;Yes;Yes;Growth;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product B;Seller 1;Mid;Small;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product C;Seller 1;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product F;Seller 7;Mid;Big;No;No;Yes;No;No;No;No;Stable;Neutral;Joint past;New;Low;Average important;No;No;Project;No;First deal;Won
+Product F;Seller 4;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Mid;Yes;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;New;Few questions;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 3;Mid;Big;No;No;No;No;No;Yes;No;Stable;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product C;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product C;Seller 7;Mid;Big;Yes;No;Yes;Yes;Yes;No;Yes;Stable;Neutral;Other;New;Few questions;Average important;No;No;Project;Info gathering;Normal;Lost
+Product D;Seller 1;Mid;Big;Yes;No;No;Yes;Yes;Yes;Yes;Stable;Neutral;Media;New;Clear;Very important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 9;Mid;Mid;Yes;No;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product D;Seller 9;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 9;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 2;Low;Small;Unknown;Unknown;No;Unknown;No;Yes;Yes;Unknown;Neutral;Referral;New;Few questions;Unimportant;No;No;Solution;Yes;First deal;Lost
+Product A;Seller 9;Mid;Mid;No;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product B;Seller 9;Mid;Big;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;Neutral;Other;New;Clear;Very important;No;No;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 9;Mid;Mid;No;No;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Small;No;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;First deal;Lost
+Product D;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product H;Seller 3;High;Big;No;No;No;Unknown;No;No;Yes;Growth;Yes;Joint past;New;Few questions;Average important;No;No;Consulting;Yes;Normal;Lost
+Product B;Seller 9;Mid;Big;No;No;No;Yes;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Mid;Unknown;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;Yes;No;Project;Yes;Normal;Lost
+Product D;Seller 2;Low;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Unknown;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 1;Mid;Small;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product B;Seller 9;Mid;Mid;No;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;No;No;No;No;No;Yes;No;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 9;Mid;Mid;No;No;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Won
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product H;Seller 3;High;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 9;Mid;Mid;Yes;No;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product C;Seller 9;Mid;Mid;Unknown;No;No;Yes;No;No;Yes;Stable;Neutral;Unknown;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product F;Seller 4;Mid;Big;No;No;Yes;Yes;No;No;No;Stable;Yes;Joint past;New;Clear;Average important;No;No;Project;Yes;First deal;Won
+Product C;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Growth;Yes;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;Yes;No;Yes;Unknown;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;Yes;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;Yes;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 1;Mid;Big;No;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 1;Mid;Big;No;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product C;Seller 9;Mid;Small;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 9;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product A;Seller 9;Mid;Mid;No;No;No;Yes;No;Yes;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Lost
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 2;High;Mid;Yes;Yes;No;Yes;Yes;Yes;Yes;Stable;No;Joint past;Past;Clear;Average important;No;Yes;Solution;Yes;First deal;Won
+Product D;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 2;High;Mid;No;Yes;No;Yes;No;Yes;Yes;Growth;Neutral;Joint past;Past;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 1;Mid;Small;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product B;Seller 1;Mid;Big;No;No;Yes;Yes;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product B;Seller 9;Mid;Mid;Unknown;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;Yes;No;Project;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Won
+Product D;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 9;Mid;Big;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 1;Mid;Big;No;No;Yes;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product E;Seller 9;High;Small;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Unknown;New;Clear;Average important;No;No;Project;Yes;Normal;Won
+Product E;Seller 9;Mid;Mid;Yes;No;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product C;Seller 9;Mid;Mid;No;No;No;No;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 9;Mid;Mid;Unknown;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;Yes;No;Project;Yes;Normal;Lost
+Product A;Seller 17;Mid;Big;Yes;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Few questions;Average important;Yes;No;Project;Info gathering;Normal;Lost
+Product B;Seller 1;Mid;Big;Yes;No;Yes;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 10;Mid;Mid;No;No;No;Yes;No;No;Yes;Slow down;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 9;Mid;Big;No;No;No;Yes;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;No;Unknown;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Past;Clear;Unimportant;No;Yes;Solution;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product B;Seller 9;Mid;Big;No;No;No;No;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 14;Mid;Big;Yes;No;No;Yes;No;No;Yes;Stable;Neutral;Joint past;New;Low;Average important;No;No;Project;Info gathering;First deal;Lost
+Product D;Seller 9;Mid;Mid;Yes;No;No;Yes;No;No;Yes;Stable;Neutral;Unknown;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product C;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Won
+Product F;Seller 1;Mid;Big;Yes;No;No;Yes;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Very important;No;No;Project;Yes;Strategic account;Won
+Product B;Seller 1;Mid;Big;Yes;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product C;Seller 1;Mid;Mid;No;No;No;No;No;Yes;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 9;Mid;Mid;Yes;Yes;No;Yes;Yes;No;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Solution;Yes;Normal;Lost
+Product B;Seller 9;Mid;Mid;Unknown;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;Yes;No;Project;Yes;Normal;Won
+Product B;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product B;Seller 3;Mid;Big;Yes;Unknown;No;Unknown;No;No;Yes;Stable;Yes;Joint past;Current;Clear;Average important;Yes;No;Project;Yes;Strategic account;Lost
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 9;Mid;Big;No;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product A;Seller 3;Mid;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Few questions;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product A;Seller 3;Mid;Big;No;No;No;No;No;No;Yes;Stable;Yes;Joint past;Current;Few questions;Very important;Yes;No;Project;Yes;Strategic account;Lost
+Product A;Seller 9;Mid;Mid;Unknown;No;No;Yes;No;No;Yes;Stable;Neutral;Referral;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Big;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 1;Mid;Big;Yes;No;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Lost
+Product N;Seller 9;Mid;Mid;Yes;No;No;Yes;No;No;Yes;Stable;Neutral;Media;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product E;Seller 9;High;Small;No;No;No;No;No;No;Yes;Stable;Neutral;Unknown;Current;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product D;Seller 1;Mid;Mid;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Maintenance;Yes;Normal;Won
+Product B;Seller 9;Mid;Mid;Unknown;No;No;No;No;No;Yes;Stable;Neutral;Joint past;Current;Clear;Unimportant;Yes;No;Project;Yes;Normal;Won
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Maintenance;Yes;Strategic account;Lost
+Product A;Seller 9;Mid;Big;No;No;No;Yes;No;No;No;Stable;Yes;Joint past;Current;Clear;Average important;No;Yes;Project;Yes;Strategic account;Lost
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Lost
+Product D;Seller 1;Mid;Big;No;Yes;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Yes;No;Yes;Yes;Stable;Yes;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 1;Mid;Small;No;Yes;No;No;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Average important;No;Yes;Solution;Yes;Normal;Won
+Product C;Seller 9;Mid;Mid;No;No;No;Unknown;No;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 9;Mid;Mid;Yes;No;No;Yes;Yes;Yes;Yes;Stable;Neutral;Joint past;New;Clear;Average important;No;No;Project;Yes;Normal;Lost
+Product A;Seller 1;Mid;Big;No;No;No;Yes;No;Yes;Yes;Stable;Neutral;Joint past;Current;Clear;Very important;No;Yes;Project;Yes;Strategic account;Won
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Stable;Neutral;Referral;Current;Few questions;Very important;Yes;No;Solution;Info gathering;Strategic account;Lost
+Product D;Seller 2;Low;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Stable;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Growth;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 2;Mid;Big;Yes;Unknown;No;Yes;Yes;Yes;Yes;Stable;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 2;Mid;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Growth;Neutral;Direct mail;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
+Product D;Seller 1;Low;Mid;Yes;Unknown;No;Unknown;No;Yes;Yes;Stable;Yes;Referral;New;Clear;Average important;No;No;Solution;Yes;First deal;Lost
